@@ -21,10 +21,15 @@ dnsrecon – enumerates DNS records and subdomains
 # Evidence
 
 01_WHOIS.jpg 
+
 02_whatweb.jpg 
+
 03_nslookup.jpg 
+
 04_dnsrecon.jpg 
+
 05_curl.jpg 
+
 06_wafw00f.jpg 
 
 
@@ -56,6 +61,7 @@ Use Zenmap (Nmap's GUI) to scan the target for open ports, live hosts, and netwo
 # Evidence
 
 01_Nmap scanning.jpg 
+
 02_Nmap topology.jpg
 
 # Key Takeaways
