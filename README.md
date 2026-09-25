@@ -6,7 +6,7 @@ Reconnaissance against a target domain using multiple Kali tools, theHarvester, 
  
  # 📌 W2-PM1: Footprinting with Multiple Kali Tools
 
-# Ojective
+# Objective
 Gather public information about the target domain using a range of command-line and GUI recon tools.
 
 # Tools Used
